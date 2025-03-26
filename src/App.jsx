@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <section className="forms-section">
-      <h1 className="section-title">Login & Signup Forms</h1>
+      <h1 className="section-title">Login & Sign up Forms</h1>
       <div className="forms">
         {/* Login Form */}
         <div className={`form-wrapper ${isLoginActive ? "is-active" : ""}`}>
